@@ -47,7 +47,7 @@ alert(`
     user found with the following details:
     First Name: ${user.firstName}
     Last Name : ${user.lastName}
-    Kunya : ${user.kunya}
+    Kunya : ${user.Kunya}
     Email: ${user.Email}
     School : ${user.School}
    `)
