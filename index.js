@@ -18,6 +18,7 @@ const userDatabase = {
     while (validateUsername(username)== false){
         username = prompt("username is invalid please enter a valid username")
     }
+    
     // if (username == null){
     //     return
     // }
